@@ -1,8 +1,9 @@
 body{
 	margin: 0;
 	background-image: url("./imagens/wallpaper.png");
+	background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: auto, auto, auto, auto;
+    background-size: auto, auto, auto, cover;
 }
 ul {
     list-style-type: none;
